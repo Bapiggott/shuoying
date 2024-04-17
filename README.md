@@ -45,8 +45,8 @@ can decrypt the file, while neither Alice nor Bob can.
 ...
 
 ## Appendices
-### A. Install Docker Engine on Ubuntu
-For those having difficulty installing Docker on Ubuntu Linux, follow the instructions provided [here](install_docker.md).
+### Install Docker Engine on Ubuntu
+For those having difficulty installing Docker on Ubuntu Linux, follow the instructions provided [here](Install_docker.md).
 
 [Continue reading...](#appendices)
 
@@ -56,7 +56,7 @@ For those having difficulty installing Docker on Ubuntu Linux, follow the instru
 SP.2007.11.
 - [3] V. Goyal, O. Pandey, A. Sahai, B. Waters, Attribute-based encryption for fine-grained access control of encrypted data, CCS ’06, Association for Computing Machinery, New York, NY, USA, 2006, p. 89–98. doi:10.1145/1180405.1180418. URL https://doi.org/10.1145/1180405.118041
 
-[More references...](#references)
+<!-- [More references...](#references) -->
 
 ## Figures
 ### Figure 1: The command lines to pull and run the Docker image
