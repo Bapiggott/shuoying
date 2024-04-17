@@ -36,6 +36,7 @@ For this lab, it's suggested to use the pre-built Docker container with OpenABE 
 | Alice | 24  | Swimming club |
 | Bob   | 21  | Karate club  |
 | Cindy | 25  | Karate club  |
+
 Before working on your lab tasks, read the following example to understand CP-ABE and
 OpenABE better. A confidential document about Karate is encrypted, whose content is only readable by those who belong to Karate club and older than 24. In this example, of course, only Cindy
 can decrypt the file, while neither Alice nor Bob can.
@@ -48,7 +49,7 @@ can decrypt the file, while neither Alice nor Bob can.
 ### Install Docker Engine on Ubuntu
 For those having difficulty installing Docker on Ubuntu Linux, follow the instructions provided [here](Install_docker.md).
 
-[Continue reading...](#appendices)
+
 
 ## References
 - [1] R. Sandhu, E. Coyne, H. Feinstein, C. Youman, Role-based access control models, Computer 29 (2) (1996) 38–47. doi:10.1109/2.485845.
