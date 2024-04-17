@@ -9,8 +9,7 @@
 | Cindy | 25  | Karate club  |
 
 Before working on your lab tasks, read the following example to understand CP-ABE and
-OpenABE better. A confidential document about Karate is encrypted, whose content is only readable by those who belong to Karate club and older than 24. In this example, of course, only Cindy
-can decrypt the file, while neither Alice nor Bob can.
+OpenABE better. A confidential document about Karate is encrypted, whose content is only readableable by those who belong to Karate club and older than 24. In this example, of course, only Cindy can decrypt the file, while neither Alice nor Bob can.
 
 ## A Case Study of CP-ABE
 
@@ -60,7 +59,7 @@ $ oabe_dec -s CP -p grizzly -k cindy_key.key -i output.cpabe -o cindy_plain.txt
 $ cat cindy_plain.txt
 ```
 ### Deliverable 2
-Please include a screenshot that demonstrates that Cindy can successfully decrypt and read  _cindy_plain.txt_.
+Please include a screenshot that demonstrates that Cindy can successfully decrypt and read  _cindy_plain.txt_.
 
 ### CP-ABE Problem Solving
 
