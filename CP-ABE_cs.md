@@ -49,5 +49,5 @@ $ cat cindy_plain.txt
 ### **<u>Deliverable 2:</u>**
 Please include a screenshot that demonstrates that Cindy can successfully decrypt and read  _cindy_plain.txt_.
 
-<p align="[Continue to next section](CP-ABE_ps.md)">text</p>
+<p align="right">[Continue to next section](CP-ABE_ps.md)</p>
 
