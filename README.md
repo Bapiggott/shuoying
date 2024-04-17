@@ -18,7 +18,7 @@ Encrypted Data.
 - Ciphertext-Policy Attribute-Based Encryption (CP-ABE) [2]: In many situations, when a user
 encrypts sensitive data, she must establish a specific access control policy on who can decrypt
 this data. Suppose that the FBI public corruption offices in Knoxville and San Francisco investigate an allegation of bribery involving a San Francisco lobbyist and a Tennessee congressman. The head FBI agent may want to encrypt a sensitive memo so that only personnel with specific credentials or attributes can access it. For instance, the head agent may specify the following access structure for accessing this information: (("Public Corruption Office" AND
-("Knoxville" OR "San Francisco")) OR (management-level > 5) OR "Name: Charlie Eppes"). By doing this, the head agent could mean that the memo should only be read by agents who work at the public corruption offices in Knoxville or San Francisco, FBI officials very high up in the management chain, and a consultant named Charlie Eppes.
+("Knoxville" OR "San Francisco")) OR (management-level > 5) OR "Name: Charlie Eppes"). By doing this, the head agent could mean that the memo should only be read by agents who work at the public corruption offices in Knoxville or San Francisco, FBI officials very high up in the management chain, and a consultant named Charlie Eppes.
 
 - Key-policy attribute-based encryption (KP-ABE) [3]: KP-ABE is another class of ABE, in which
 ciphertext is labeled with sets of attributes and private keys are associated with access structures. The access structures control which ciphertext a user should be able to decrypt. KP-ABE has essential applications in data sharing on untrusted cloud storage
