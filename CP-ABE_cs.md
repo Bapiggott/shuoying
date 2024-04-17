@@ -32,9 +32,9 @@ $ oabe_enc -s CP -p grizzly -e "((Age > 22) and (Karate-club))" -i input.txt -o 
 
 ### See Also
 For more information about how to use the OpenABE command, please refer to [OpenABE CLI README](https://github.com/zeutro/openabe/blob/master/cli/README.md) and the following documents for details:
-- OpenABE API Guide Document: explains how to install and use the library.
-- OpenABE CLI Util Document: shows how to use the included command-line tools, including benchmarking.
-- OpenABE Design Document: explains in detail the functionalities and algorithms implemented.
+- [OpenABE API Guide Document](https://github.com/zeutro/openabe/blob/master/docs/libopenabe-v1.0.0-api-doc.pdf): explains how to install and use the library.
+- [OpenABE CLI Util Document](https://github.com/zeutro/openabe/blob/master/docs/libopenabe-v1.0.0-cli-doc.pdf): shows how to use the included command-line tools, including benchmarking.
+- [OpenABE Design Document](https://github.com/zeutro/openabe/blob/master/docs/libopenabe-v1.0.0-design-doc.pdf): explains in detail the functionalities and algorithms implemented.
 
 Then, you can check the result of decryption as follows:
 ```bash
