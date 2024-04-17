@@ -23,7 +23,7 @@ This lab helps students better understand Role-based Access Control (RBAC) and c
 
 ## Background
 - Attribute-based encryption (ABE):  ABE is a particular category of public-key crypto-system.
-The private key of a specific user depends on the attributes of that user, such as age, date of birth, and position. The idea of encryption attribute was first published in Fuzzy Identity-Based Encryption and then developed as Attribute-Based Encryption for Fine-Grained Access Control of
+The private key of a specific user depends on the attributes of that user, such as age, date of birth, and position. The idea of encryption attribute was first published in Fuzzy Identity-Based Encryption and then developed as Attribute-Based Encryption for Fine-Grained Access Control of
 Encrypted Data.
 
 - Ciphertext-Policy Attribute-Based Encryption (CP-ABE) [2]: In many situations, when a user
