@@ -26,12 +26,12 @@ This lab will help students better understand Role-based Access Control (RBAC)  
 The private key of a specific user depends on the attributes of that user, such as age, date of birth, and position. The idea of encryption attribute was first published in Fuzzy Identity-Based Encryption and then developed as Attribute-Based Encryption for Fine-Grained Access Control of
 Encrypted Data.
 
-- Ciphertext-Policy Attribute-Based Encryption (CP-ABE) [2]: In many situations, when a user
+- Ciphertext-Policy Attribute-Based Encryption (CP-ABE) <a href="#cite2">[2]</a>: In many situations, when a user
 encrypts sensitive data, she must establish a specific access control policy on who can decrypt
 this data. Suppose that the FBI public corruption offices in Knoxville and San Francisco investigate an allegation of bribery involving a San Francisco lobbyist and a Tennessee congressman. The head FBI agent may want to encrypt a sensitive memo so that only personnel with specific credentials or attributes can access it. For instance, the head agent may specify the following access structure for accessing this information: (("Public Corruption Office" AND
 ("Knoxville" OR "San Francisco")) OR (management-level > 5) OR "Name: Charlie Eppes"). By doing this, the head agent could mean that the memo should only be read by agents who work at the public corruption offices in Knoxville or San Francisco, FBI officials very high up in the management chain, and a consultant named Charlie Eppes.
 
-- Key-policy attribute-based encryption (KP-ABE) [3]: KP-ABE is another class of ABE, in which
+- Key-policy attribute-based encryption (KP-ABE) <a href="#cite3">[3]</a>: KP-ABE is another class of ABE, in which
 ciphertext is labeled with sets of attributes and private keys are associated with access structures. The access structures control which ciphertext a user should be able to decrypt. KP-ABE has essential applications in data sharing on untrusted cloud storage
 
 ## Lab Set-up
@@ -86,9 +86,9 @@ For those having difficulty installing Docker on Ubuntu Linux, follow the instru
 
 
 ## References
-<span id="cite1">[1] Citation details go here.</span>
-- [1] R. Sandhu, E. Coyne, H. Feinstein, C. Youman, Role-based access control models, Computer 29 (2) (1996) 38–47. doi:10.1109/2.485845.
-- [2] J. Bethencourt, A. Sahai, B. Waters, Ciphertext-policy attribute-based encryption, in: 2007 IEEE Symposium on Security and Privacy (SP ’07), 2007, pp. 321–334. doi:10.1109/SP.2007.11.
-- [3] V. Goyal, O. Pandey, A. Sahai, B. Waters, Attribute-based encryption for fine-grained access control of encrypted data, CCS ’06, Association for Computing Machinery, New York, NY, USA, 2006, p. 89–98. doi:10.1145/1180405.1180418. URL https://doi.org/10.1145/1180405.1180418
+<!--<span id="cite1">[1] Citation details go here.</span>-->
+- <span id="cite1">[1] R. Sandhu, E. Coyne, H. Feinstein, C. Youman, Role-based access control models, Computer 29 (2) (1996) 38–47. doi:10.1109/2.485845.</span>
+- <span id="cite2">[2] J. Bethencourt, A. Sahai, B. Waters, Ciphertext-policy attribute-based encryption, in: 2007 IEEE Symposium on Security and Privacy (SP ’07), 2007, pp. 321–334. doi:10.1109/SP.2007.11.</span>
+- <span id="cite3">[3] V. Goyal, O. Pandey, A. Sahai, B. Waters, Attribute-based encryption for fine-grained access control of encrypted data, CCS ’06, Association for Computing Machinery, New York, NY, USA, 2006, p. 89–98. doi:10.1145/1180405.1180418. URL https://doi.org/10.1145/1180405.1180418</span>
 
 
