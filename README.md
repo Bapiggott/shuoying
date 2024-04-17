@@ -6,14 +6,14 @@ This lab helps students better understand Role-based Access Control (RBAC) and c
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Learning Objectives](#learning-objectives)
+- [Learning Objectives](#learning-objectives)
 - [Background](#background)
 - [Lab Set-up](#lab-set-up)
 - [Exercises](#exercises)
 - [Deliverables](#deliverables)
 - [Appendices](#appendices)
-  - [Install Docker Engine on Ubuntu](#install-docker-engine-on-ubuntu)
 - [References](#references)
+
 
 ### Learning Objectives:
 1. Be able to describe attribute-based encryption, including CP-ABE and KP-ABE.
