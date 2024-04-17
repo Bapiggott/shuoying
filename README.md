@@ -51,6 +51,7 @@ $  docker run --rm -it yangzhou301/abe-lab
    - [KP-ABE Problem Solving](KP-ABE_ps.md)
 
 ## Deliverables
+Please ensure that you have completed each deliverable according to the provided instructions.
 
 - [Deliverable 1](README.md#lab-set-up)
    - Please include a screenshot to demonstrate that the OpenABE is functioning.
