@@ -10,8 +10,6 @@ This lab helps students better understand Role-based Access Control (RBAC) and c
 - [Background](#background)
 - [Lab Set-up](#lab-set-up)
 - [Exercises](#exercises)
-  - [CP-ABE Exercises](#cp-abe-exercises)
-  - [KP-ABE Exercises](#kp-abe-exercises)
 - [Deliverables](#deliverables)
 - [Appendices](#appendices)
   - [Install Docker Engine on Ubuntu](#install-docker-engine-on-ubuntu)
@@ -44,7 +42,7 @@ $  docker run --rm -it yangzhou301/abe-lab
 ```
 **Deliverable 1:** Include a screenshot demonstrating that OpenABE is functioning.
 
-## Exerciese
+## Exercises
 1.  CP-ABE Exercises
    - [A Case Study of CP-ABE](CP-ABE_cs.md)
    - [CP-ABE Problem Solving](CP-ABE_ps.md)
