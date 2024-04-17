@@ -11,21 +11,21 @@
 
 Before working on your lab tasks, read the following example to understand CP-ABE and OpenABE better. A confidential document about Karate is encrypted, whose content is only readable by those who belong to Karate club and are older than 24. In this example, only Cindy can decrypt the file, while neither Alice nor Bob can.
 
-### Construct a CP-ABE crypto-system with "grizzly" as the prefix of the file name.
+#### Construct a CP-ABE crypto-system with "grizzly" as the prefix of the file name.
 ```bash
 $ oabe_setup -s CP -p grizzly
 ```
-### Generate keys for Alice, Bob, and Cindy with their attributes.
+#### Generate keys for Alice, Bob, and Cindy with their attributes.
 ```bash
 $ oabe_keygen -s CP -p grizzly -i "Age=24|Swimming-club" -o alice_key
 $ oabe_keygen -s CP -p grizzly -i "Age=21|Karate-club" -o bob_key
 $ oabe_keygen -s CP -p grizzly -i "Age=25|Karate-club" -o cindy_key
 ```
-### Write a secret message into input.txt
+#### Write a secret message into input.txt
 ```bash
 $ echo "114514" > input.txt
 ```
-### Encrypt the file
+#### Encrypt the file
 ```bash
 $ oabe_enc -s CP -p grizzly -e "((Age > 22) and (Karate-club))" -i input.txt -o output.cpabe
 ```
