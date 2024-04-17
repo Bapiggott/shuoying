@@ -15,7 +15,7 @@ This lab helps students better understand Role-based Access Control (RBAC) and c
 - [References](#references)
 
 
-### Learning Objectives:
+## Learning Objectives:
 1. Be able to describe attribute-based encryption, including CP-ABE and KP-ABE.
 2. Be able to compose security policies according to various realistic scenarios.
 3. Be able to integrate security policies into crypto-keys.
