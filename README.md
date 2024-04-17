@@ -24,8 +24,12 @@ this data. Suppose that the FBI public corruption offices in Knoxville and San F
 ciphertext is labeled with sets of attributes and private keys are associated with access structures. The access structures control which ciphertext a user should be able to decrypt. KP-ABE has essential applications in data sharing on untrusted cloud storage
 
 ## Task 1: Lab Set-up
-For this lab, it's suggested to use the pre-built Docker container with OpenABE already installed. Follow the commands listed in [Figure 1](#figure-1-the-command-lines-to-pull-and-run-the-docker-image) to pull and run the Docker image.
-
+For this lab, we suggest you use our pre-built Docker 1 container, which already installed OpenABE
+(https://github.com/zeutro/openabe). OpenABE is a cryptographic library that implements a collection of attribute-based encryption (ABE) algorithms, industry-standard cryptographic functions, and tools. Use the following commands to pull and run the Docker image:
+```bash
+$  docker pull yangzhou301/abe-lab
+$  docker run --rm -it yangzhou301/abe-lab
+```
 **Deliverable 1:** Include a screenshot demonstrating that OpenABE is functioning.
 
 ## CP-ABE Exercises
