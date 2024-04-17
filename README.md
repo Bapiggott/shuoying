@@ -3,6 +3,20 @@
 ## Overview
 This lab helps students better understand Role-based Access Control (RBAC) and cryptographic technologies of Attribute-based Encryption (ABE). Students will be introduced to two different ABEs: Ciphertext-Policy ABE (CP-ABE) and Key-Policy ABE (KP-ABE) and their applications.
 
+## Table of Contents
+
+- [Overview](#overview)
+  - [Learning Objectives](#learning-objectives)
+- [Background](#background)
+- [Lab Set-up](#lab-set-up)
+- [Exercises](#exercises)
+  - [CP-ABE Exercises](#cp-abe-exercises)
+  - [KP-ABE Exercises](#kp-abe-exercises)
+- [Deliverables](#deliverables)
+- [Appendices](#appendices)
+  - [Install Docker Engine on Ubuntu](#install-docker-engine-on-ubuntu)
+- [References](#references)
+
 ### Learning Objectives:
 1. Be able to describe attribute-based encryption, including CP-ABE and KP-ABE.
 2. Be able to compose security policies according to various realistic scenarios.
@@ -77,10 +91,4 @@ For those having difficulty installing Docker on Ubuntu Linux, follow the instru
 - [2] J. Bethencourt, A. Sahai, B. Waters, Ciphertext-policy attribute-based encryption, in: 2007 IEEE Symposium on Security and Privacy (SP ’07), 2007, pp. 321–334. doi:10.1109/SP.2007.11.
 - [3] V. Goyal, O. Pandey, A. Sahai, B. Waters, Attribute-based encryption for fine-grained access control of encrypted data, CCS ’06, Association for Computing Machinery, New York, NY, USA, 2006, p. 89–98. doi:10.1145/1180405.1180418. URL https://doi.org/10.1145/1180405.1180418
 
-<!-- [More references...](#references) -->
 
-## Figures
-### Figure 1: The command lines to pull and run the Docker image
-```plaintext
-docker pull yangzhou301/abe-lab
-docker run --rm -it yangzhou301/abe-lab
