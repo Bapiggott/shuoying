@@ -46,5 +46,5 @@ $ oabe_dec -s CP -p grizzly -k bob_key.key -i output.cpabe -o bob_plain.txt
 $ oabe_dec -s CP -p grizzly -k cindy_key.key -i output.cpabe -o cindy_plain.txt
 $ cat cindy_plain.txt
 ```
-### **Deliverable 2**
+### <span style="font-size:1.5em;">**_Deliverable 2:_**</span>
 Please include a screenshot that demonstrates that Cindy can successfully decrypt and read  _cindy_plain.txt_.
