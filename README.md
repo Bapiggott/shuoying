@@ -46,7 +46,7 @@ can decrypt the file, while neither Alice nor Bob can.
 
 ## Appendices
 ### A. Install Docker Engine on Ubuntu
-For those having difficulty installing Docker on Ubuntu Linux, follow the instructions provided [here](#figure-6-the-command-lines-to-install-docker-on-ubuntu).
+For those having difficulty installing Docker on Ubuntu Linux, follow the instructions provided [here](install_docker.md).
 
 [Continue reading...](#appendices)
 
