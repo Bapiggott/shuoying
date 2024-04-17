@@ -20,3 +20,6 @@ Let’s say you are Hermione Granger. Please provide command lines that encrypt 
 
 ### **<u>Deliverable 4:</u>**
 Please provide command lines that show Harry Potter and Ron Weasley can decrypt the ciphertext. Also, provide the command line(s) that show Professor Quirrell cannot decrypt the ciphertext or decrypts with failure. You should include a screenshot(s) that demonstrates it.
+
+
+<p align="right"><a href="KP-ABE_cs.md">Continue to next section...</a></p>
