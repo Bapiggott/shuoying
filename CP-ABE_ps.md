@@ -15,8 +15,8 @@ As mentioned before, a CP-ABE crypto-system specifies attributes associated with
 
 Let’s say a confidential document is encrypted by Hermione Granger, whose content is only viewable by Harry Potter and Ron Weasley. In other words, only Harry and Ron can decrypt and read the document, while Professor Quirrell cannot. You should create a random document for your own and demonstrate this scenario.
 
-### Deliverable 3
+### **<u>Deliverable 3:</u>**
 Let’s say you are Hermione Granger. Please provide command lines that encrypt the document. Also, please include the screenshot(s) to demonstrate that the document has been encrypted successfully.
 
-### Deliverable 4
+### **<u>Deliverable 4:</u>**
 Please provide command lines that show Harry Potter and Ron Weasley can decrypt the ciphertext. Also, provide the command line(s) that show Professor Quirrell cannot decrypt the ciphertext or decrypts with failure. You should include a screenshot(s) that demonstrates it.
