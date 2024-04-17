@@ -32,7 +32,7 @@ $  docker run --rm -it yangzhou301/abe-lab
 **Deliverable 1:** Include a screenshot demonstrating that OpenABE is functioning.
 
 ## Exerciese
-1. CP-ABE Exercises
+1.  CP-ABE Exercises
    - [A Case Study of CP-ABE](CP-ABE_cs.md)
    - [CP-ABE Problem Solving](CP-ABE_ps.md)
 2.  KP-ABE Exercises
@@ -40,7 +40,7 @@ $  docker run --rm -it yangzhou301/abe-lab
    - [KP-ABE Problem Solving](KP-ABE_ps.md)
 
 
-...
+
 
 ## Appendices
 ### Install Docker Engine on Ubuntu
