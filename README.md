@@ -41,29 +41,29 @@ $  docker run --rm -it yangzhou301/abe-lab
 
 ## Deliverables
 
-### Deliverable 1
-- Please include a screenshot to demonstrate that the OpenABE is functioning.
+- Deliverable 1
+ - Please include a screenshot to demonstrate that the OpenABE is functioning.
 
-### Deliverable 2
-- Please include a screenshot that demonstrates that Cindy can successfully decrypt and read cindy plain.txt.
+- [Deliverable 2](CP-ABE_cs.md#deliverable-2)
+  - Please include a screenshot that demonstrates that Cindy can successfully decrypt and read cindy plain.txt.
 
-### Deliverable 3
-- Let’s say you are Hermione Granger. Please provide command lines that encrypt the document. Also, please include the screenshot(s) to demonstrate that the document has been encrypted successfully.
+- [Deliverable 3](CP-ABE_ps.md#deliverable-3)
+  - Let’s say you are Hermione Granger. Please provide command lines that encrypt the document. Also, please include the screenshot(s) to demonstrate that the document has been encrypted successfully.
 
-### Deliverable 4
-- Please provide command lines that show Harry Potter and Ron Weasley can decrypt the ciphertext. Also, provide the command line(s) that shows Professor Quirrell cannot decrypt the ciphertext or decrypts with failure. You should include a screenshot(s) that demonstrates it.
+- [Deliverable 4](CP-ABE_ps.md#deliverable-4)
+  - Please provide command lines that show Harry Potter and Ron Weasley can decrypt the ciphertext. Also, provide the command line(s) that shows Professor Quirrell cannot decrypt the ciphertext or decrypts with failure. You should include a screenshot(s) that demonstrates it.
 
-### [Deliverable 5](KP-ABE_cs.md#deliverable-5)
-- Please include a screenshot that demonstrates the results of executing the decryption commands.
+- [Deliverable 5](KP-ABE_cs.md#deliverable-5)
+  - Please include a screenshot that demonstrates the results of executing the decryption commands.
 
-### Deliverable 6
-- Construct a KP-ABE crypto-system and assign a secret key to Iron Man.
+- [Deliverable 6](KP-ABE_ps.md#deliverable-6)
+  - Construct a KP-ABE crypto-system and assign a secret key to Iron Man.
 
-### Deliverable 7
-- Compose the plain text of the four “proof-of-the-concept” (random) messages and then encrypt them with their metadata.
+- [Deliverable 7](KP-ABE_ps.md#deliverable-7)
+  - Compose the plain text of the four “proof-of-the-concept” (random) messages and then encrypt them with their metadata.
 
-### Deliverable 8
-- Which messages can be decrypted by Iron Man? Why?
+- [Deliverable 8](KP-ABE_ps.md#deliverable-8)
+  - Which messages can be decrypted by Iron Man? Why?
 
 
 
