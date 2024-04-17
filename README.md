@@ -1,7 +1,7 @@
 # ReScuE Labs - Attribute-based Encryption (ABE) Lab
 # Fine-grained Access Control with Attribute-based Encryption (ABE) Lab
 ## Overview
-This lab helps students better understand Role-based Access Control (RBAC) and cryptographic technologies of Attribute-based Encryption (ABE). Students will be introduced to two different ABEs: Ciphertext-Policy ABE (CP-ABE) and Key-Policy ABE (KP-ABE) and their applications.
+This lab will help students better understand Role-based Access Control (RBAC) [1] and cryptographic technologies of Attribute-based Encryption (ABE). Students will be introduced to two different ABEs: Ciphertext-Policy ABE (CP-ABE) and Key-Policy ABE (KP-ABE) and their applications.
 
 ## Table of Contents
 
