@@ -50,4 +50,5 @@ $ cat cindy_plain.txt
 Please include a screenshot that demonstrates that Cindy can successfully decrypt and read  _cindy_plain.txt_.
 
 <p align="right">[Continue to next section](CP-ABE_ps.md)</p>
+<p align="right"><a href="CP-ABE_ps.md">Continue to next section</a></p>
 
