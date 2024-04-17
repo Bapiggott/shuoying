@@ -42,7 +42,7 @@ $  docker run --rm -it yangzhou301/abe-lab
 ## Deliverables
 
 - [Deliverable 1](README.md#lab-set-up)
- - Please include a screenshot to demonstrate that the OpenABE is functioning.
+   - Please include a screenshot to demonstrate that the OpenABE is functioning.
 
 - [Deliverable 2](CP-ABE_cs.md#deliverable-2)
   - Please include a screenshot that demonstrates that Cindy can successfully decrypt and read cindy plain.txt.
