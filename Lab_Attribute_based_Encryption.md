@@ -10,7 +10,7 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 
 ## Tasks (English) (Spanish)
 
-- **VM version**: This lab has been tested on our SEED Ubuntu-20.04 VM
+- **VM version**: This lab has been tested on Ubuntu-20.04 VM
 - **Lab setup files**
   - [Labsetup.zip](link-to-labsetup.zip)
   - [Labsetup-arm.zip](link-to-labsetup-arm.zip) (for Apple Silicon machines)
@@ -21,12 +21,12 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 - **Supervised (closely-guided lab session)**: 2 hours
 - **Unsupervised (take-home project)**: 1 week
 
-## SEED Videos
+## Videos
 
 - **Udemy**: [Internet Security: A Hands-on Approach (§ 6)](link-to-udemy-course)
 - Identical videos are available on NetEase (for Mainland China)
 
-## SEED Books (English) (Chinese)
+## Books (English) (Chinese)
 
 - **Computer & Internet Security: A Hands-on Approach, 3rd edition (§ 20)**
 - **Internet Security: A Hands-on Approach, 3rd edition (§ 6)**
@@ -35,7 +35,7 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 
 Please give us your feedback on this lab using this [feedback form](link-to-feedback-form).
 
-The SEED Labs project is open source. If you are interested in contributing to this project, please check out our [Github page](https://github.com/seed-labs/seed-labs).
+The project is open source. If you are interested in contributing to this project, please check out our [Github page](https://github.com/your-github-repo).
 
 ---
 
