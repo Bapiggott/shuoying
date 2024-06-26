@@ -1,10 +1,12 @@
-# TCP Attacks Lab
+# Fine-grained Access Control with Attribute-based Encryption (ABE) Lab
 
 ## Overview
 
-The learning objective of this lab is for students to gain first-hand experience on vulnerabilities, as well as on attacks against these vulnerabilities. Wise people learn from mistakes. In security education, we study mistakes that lead to software vulnerabilities. Studying mistakes from the past not only help students understand why systems are vulnerable, why a "seemingly-benign" mistake can turn into a disaster, and why many security mechanisms are needed. More importantly, it also helps students learn the common patterns of vulnerabilities, so they can avoid making similar mistakes in the future. Moreover, using vulnerabilities as case studies, students can learn the principles of secure design, secure programming, and security testing.
-
-The vulnerabilities in the TCP/IP protocols represent a special genre of vulnerabilities in protocol designs and implementations; they provide an invaluable lesson as to why security should be designed in from the beginning, rather than being added as an afterthought. Moreover, studying these vulnerabilities help students understand the challenges of network security and why many network security measures are needed.
+This lab will help students better understand Role-based Access Control (RBAC) and cryptographic technologies of Attribute-based Encryption (ABE). Students will be introduced to two different ABE: Ciphertext-Policy ABE (CP-ABE) and Key-Policy ABE (KP-ABE) and their applications. The learning objectives of this lab are listed below:
+1. Be able to describe attribute-based encryption, including CP-ABE and KP-ABE.
+2. Be able to compose the security policies according to various realistic scenarios.
+3. Be able to integrate security policies into crypto-keys.
+4. Be able to decrypt ciphertext using correct crypto-keys.
 
 ## Tasks (English) (Spanish)
 
@@ -34,3 +36,8 @@ The vulnerabilities in the TCP/IP protocols represent a special genre of vulnera
 Please give us your feedback on this lab using this [feedback form](link-to-feedback-form).
 
 The SEED Labs project is open source. If you are interested in contributing to this project, please check out our [Github page](https://github.com/seed-labs/seed-labs).
+
+---
+
+Copyright © 2021 Anyi Liu, Xinyi Li, and Frank Wang, Oakland University and the University of Michigan.
+The development of this document is funded by the following grants from the US National Science Foundation: No. 1723707 and 1623713, and Michigan Space Grant Consortium (MSGC) Research Seed Grant and Oakland University Research Seed Grant. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. If you remix, transform, or build upon the material, this copyright notice must be left intact, or reproduced in a way that is reasonable to the medium in which the work is being re-published.
