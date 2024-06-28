@@ -23,7 +23,7 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 
 ## Videos
 
-- **Udemy**: [Internet Security: A Hands-on Approach (§ 6)](link-to-udemy-course)
+- **Udemy**: [Internet Security: A Hands-on Approach (§ 6)](https://www.youtube.com/watch?v=9JX7ShrUYyQ)
 - Identical videos are available on NetEase (for Mainland China)
 
 ## Books (English) (Chinese)
@@ -31,12 +31,12 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 - **Computer & Internet Security: A Hands-on Approach, 3rd edition (§ 20)**
 - **Internet Security: A Hands-on Approach, 3rd edition (§ 6)**
 
-## Feedback and Help
+<!--## Feedback and Help
 
 Please give us your feedback on this lab using this [feedback form](link-to-feedback-form).
 
 The project is open source. If you are interested in contributing to this project, please check out our [Github page](https://github.com/your-github-repo).
-
+-->
 ---
 
 Copyright © 2021 Anyi Liu, Xinyi Li, and Frank Wang, Oakland University and the University of Michigan.
