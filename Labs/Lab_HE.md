@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="he-lab.png" align="right" width="200" style="margin-right: 20px; margin-bottom: 20px;">
+<img src="../img/he-lab.png" align="right" width="200" style="margin-right: 20px; margin-bottom: 20px;">
 
 This lab will help students build a better understanding of the purpose of HE and the confidentiality
 issues in a supply chain. In particular, students will learn 1) the basic HE operations; 2) the
@@ -12,7 +12,7 @@ real-world problem solving with HE. The learning objectives of this lab are list
 2. Be able to solve real-world problems with HE.
 ## Tasks
 
-- **[HE Lab](Lab-HE-Manual.pdf)**
+- **[HE Lab](../Labs/Lab-HE-Manual.pdf)**
 
 ## Time (Suggested)
 
