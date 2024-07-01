@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="icon.webp" align="right" width="200" style="margin-right: 20px; margin-bottom: 20px;">
+<img src="../img/icon.webp" align="right" width="200" style="margin-right: 20px; margin-bottom: 20px;">
 
 In this lab, you will learn how to use program analysis tools to analyze Mobile Apps and report any
 malicious activities or behaviors. The analysis includes both static and dynamic analysis. Some
@@ -14,7 +14,7 @@ The learning objectives of this lab are listed below:
 
 ## Tasks
 
-- **[MA Lab](Lab_Behavior_based_Mobile_Malware_Analysis_and_Detection.pdf)**
+- **[MA Lab](../pdf/Lab_Behavior_based_Mobile_Malware_Analysis_and_Detection.pdf)**
 
 ## Time (Suggested)
 
