@@ -10,21 +10,16 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 
 ## Tasks (English) (Spanish)
 
-- **VM version**: This lab has been tested on Ubuntu-20.04 VM
-- **Lab setup files**
-  - [Labsetup.zip](link-to-labsetup.zip)
-  - [Labsetup-arm.zip](link-to-labsetup-arm.zip) (for Apple Silicon machines)
-- **Manual**: [Docker manual](link-to-docker-manual)
+- **[Lab](Lab_Attribute_based_Encryption.pdf)**
 
 ## Time (Suggested)
 
-- **Supervised (closely-guided lab session)**: 2 hours
-- **Unsupervised (take-home project)**: 1 week
+- **Supervised (closely-guided lab session)**: 1 hours
+- **Unsupervised (take-home project)**: 1.5 hours
 
-## Videos
+## Video
 
-- **Udemy**: [Internet Security: A Hands-on Approach (§ 6)](https://www.youtube.com/watch?v=9JX7ShrUYyQ)
-- Identical videos are available on NetEase (for Mainland China)
+- **Udemy**: [ReScuE Labs: Attribute Based Encryption](https://www.youtube.com/watch?v=9JX7ShrUYyQ)
 
 ## Books (English) (Chinese)
 
