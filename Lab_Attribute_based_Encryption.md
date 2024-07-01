@@ -8,7 +8,7 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 3. Be able to integrate security policies into crypto-keys.
 4. Be able to decrypt ciphertext using correct crypto-keys.
 
-## Tasks (English) (Spanish)
+## Tasks
 
 - **[Lab](Lab_Attribute_based_Encryption.pdf)**
 
@@ -20,11 +20,11 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 ## Video
 
 - **Udemy**: [ReScuE Labs: Attribute Based Encryption](https://www.youtube.com/watch?v=9JX7ShrUYyQ)
-
+<!--
 ## Books (English) (Chinese)
 
 - **Computer & Internet Security: A Hands-on Approach, 3rd edition (§ 20)**
-- **Internet Security: A Hands-on Approach, 3rd edition (§ 6)**
+- **Internet Security: A Hands-on Approach, 3rd edition (§ 6)**-->
 
 <!--## Feedback and Help
 
