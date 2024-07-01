@@ -12,7 +12,7 @@ real-world problem solving with HE. The learning objectives of this lab are list
 2. Be able to solve real-world problems with HE.
 ## Tasks
 
-- **[HE Lab](../Labs/Lab-HE-Manual.pdf)**
+- **[HE Lab](../pdf/Lab-HE-Manual.pdf)**
 
 ## Time (Suggested)
 
