@@ -11,7 +11,7 @@ This lab will help students better understand Role-based Access Control (RBAC) a
 4. Be able to decrypt ciphertext using correct crypto-keys.
 ## Tasks
 
-- **[ABE Lab](Lab_Attribute_based_Encryption.pdf)**
+- **[ABE Lab](../pdf/Lab_Attribute_based_Encryption.pdf)**
 
 ## Time (Suggested)
 
