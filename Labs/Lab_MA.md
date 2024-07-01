@@ -40,3 +40,6 @@ The project is open source. If you are interested in contributing to this projec
 
 Copyright © 2021 Anyi Liu, Xinyi Li, and Frank Wang, Oakland University and the University of Michigan.
 The development of this document is funded by the following grants from the US National Science Foundation: No. 1723707 and 1623713, and Michigan Space Grant Consortium (MSGC) Research Seed Grant and Oakland University Research Seed Grant. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. If you remix, transform, or build upon the material, this copyright notice must be left intact, or reproduced in a way that is reasonable to the medium in which the work is being re-published.
+
+
+<p align="right"><a href="../README.md">Return Home...</a></p>
