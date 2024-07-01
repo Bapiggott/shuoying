@@ -1,7 +1,7 @@
 # Fine-grained Access Control with Attribute-based Encryption (ABE) Lab
 
 ## Overview
-
+<img src="access-control-lab.jpg" align="right" width="200" style="margin-left: 20px; margin-bottom: 20px;">
 This lab will help students better understand Role-based Access Control (RBAC) and cryptographic technologies of Attribute-based Encryption (ABE). Students will be introduced to two different ABE: Ciphertext-Policy ABE (CP-ABE) and Key-Policy ABE (KP-ABE) and their applications. The learning objectives of this lab are listed below:
 1. Be able to describe attribute-based encryption, including CP-ABE and KP-ABE.
 2. Be able to compose the security policies according to various realistic scenarios.
