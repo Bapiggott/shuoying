@@ -38,7 +38,7 @@ Built upon [CloudLab](https://www.cloudlab.us/), ReScuE provides a user-friendly
 ### VMs and Containers
 ReScuE labs rely on our customized virtual machines (VMs) and containers. As educators and students, you can download them from the repository. They are free. For more information on how to build them from scratch, please get in touch with us.
 
--[Setup Environment for Android Malware Construction](../Documents/Setup Environment for Android Malware Construction.pdf)
+-[Setup Environment for Android Malware Construction](pdf/Setup_Environment_for_Android_Malware_Construction.pdf)
 
 <div style="clear: both;"></div>
 <br><br><br>
