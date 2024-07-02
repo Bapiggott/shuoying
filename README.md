@@ -38,12 +38,12 @@ ReScuE labs rely on our customized virtual machines (VMs) and containers. As edu
 ### YouTube Channel
 We developed YouTube channels for educators and students to get familiar with the ReScuE platform. In addition, for each hands-on lab, we provide videos, which articulate learning objectives and provide demonstration.
 
-![YouTube Channel](../img/youtube.png)
+![YouTube Channel](/img/youtube.png)
 
 [YouTube Channel](https://www.youtube.com/channel/UC0Z5YeChCNubOgv0GJVO7fg)
 
 ## Installation and Setup
-To get started with ReScuE, follow the instructions in the [Setup Environment for Android Malware Construction](../Documents/Setup Environment for Android Malware Construction.pdf) document.
+To get started with ReScuE, follow the instructions in the [Setup Environment for Android Malware Construction](pdf/Setup_Environment_for_Android_Malware_Construction.pdf) document.
 
 ## Contributing
 We welcome contributions from the community. Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
