@@ -20,14 +20,13 @@ We have developed cybersecurity hands-on labs in the area of pervasive computing
 3. [Privacy Preservation with Homomorphic Encryption (HE) Lab](Labs/Lab_HE.md)
 4. [Behavior-based Mobile Malware Analysis and Detection (MA) Lab](Labs/Lab_HE.md)
 
-[Learn more](../imgs/learnmore.png)
 
 ### ReScuE Cloud Environments
 Built upon [CloudLab](https://www.cloudlab.us/), ReScuE provides a user-friendly interface and critical components allowing educators to set up and maintain the virtual environment. Meanwhile, ReScuE provides the web interface to monitor students' activities and resource usage for virtual artifacts.
 
 ![ReScuE Cloud](../imgs/cloud-emulator.png)
 
-[ReScuE User Guide](../Documents/ReScuE-User-Guide.pdf)
+[ReScuE User Guide](../pdf/ReScuE-User-Guide.pdf)
 
 ### VMs and Containers
 ReScuE labs rely on our customized virtual machines (VMs) and containers. As educators and students, you can download them from the repository. They are free. For more information on how to build them from scratch, please get in touch with us.
