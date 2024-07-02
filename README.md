@@ -12,7 +12,7 @@ ReScuE is a cloud-based networked virtual environment dedicated to cybersecurity
 
 ## What Does ReScuE Provide?
 
-## Hands-on Labs
+### Hands-on Labs
 We have developed cybersecurity hands-on labs in the area of pervasive computing. They cover a wide range of cloud-based cryptography, SDN and NFV, mobile security, and forensic technologies. More labs are under finalization.
 
 1. [Fine-grained Access Control with Attribute-based Encryption (ABE) Lab](Labs/Lab_Attribute_based_Encryption.md)
@@ -23,28 +23,36 @@ We have developed cybersecurity hands-on labs in the area of pervasive computing
 
 <img src="img/cloud-emulator.png" align="right" width="200" style="margin-right: 20px; margin-bottom: 20px;">
 
-## ReScuE Cloud Environments
+### ReScuE Cloud Environments
 Built upon [CloudLab](https://www.cloudlab.us/), ReScuE provides a user-friendly interface and critical components allowing educators to set up and maintain the virtual environment. Meanwhile, ReScuE provides the web interface to monitor students' activities and resource usage for virtual artifacts.
 
 
 -[ReScuE User Guide](/pdf/ReScuE-User-Guide.pdf)
 
+<div style="clear: both;"></div>
+<br><br><br>
+
 
 <img src="/img/vm-container.png" align="left" width="200" style="margin-right: 0px; margin-bottom: 0px;">
 
-## VMs and Containers
+### VMs and Containers
 ReScuE labs rely on our customized virtual machines (VMs) and containers. As educators and students, you can download them from the repository. They are free. For more information on how to build them from scratch, please get in touch with us.
 
 -[Setup Environment for Android Malware Construction](../Documents/Setup Environment for Android Malware Construction.pdf)
+
 <div style="clear: both;"></div>
+<br><br><br>
 
 <img src="img/youtube.png" align="right" width="200" style="margin-right: 20px; margin-bottom: 20px;">
 
-## YouTube Channel
+### YouTube Channel
 We developed YouTube channels for educators and students to get familiar with the ReScuE platform. In addition, for each hands-on lab, we provide videos, which articulate learning objectives and provide demonstration.
 
 
 -[YouTube Channel](https://www.youtube.com/channel/UC0Z5YeChCNubOgv0GJVO7fg)
+
+<div style="clear: both;"></div>
+<br><br><br>
 
 ## Installation and Setup
 To get started with ReScuE, follow the instructions in the [Setup Environment for Android Malware Construction](pdf/Setup_Environment_for_Android_Malware_Construction.pdf) document.
