@@ -22,17 +22,11 @@ We have developed cybersecurity hands-on labs in the area of pervasive computing
 
 
 ### ReScuE Cloud Environments
+<img src="img/cloud-emulator.png" align="right" width="200" style="margin-right: 20px; margin-bottom: 20px;">
+Built upon [CloudLab](https://www.cloudlab.us/), ReScuE provides a user-friendly interface and critical components allowing educators to set up and maintain the virtual environment. Meanwhile, ReScuE provides the web interface to monitor students' activities and resource usage for virtual artifacts.
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        Built upon <a href="https://www.cloudlab.us/">CloudLab</a>, ReScuE provides a user-friendly interface and critical components allowing educators to set up and maintain the virtual environment. Meanwhile, ReScuE provides the web interface to monitor students' activities and resource usage for virtual artifacts.
-        <br><br>
-        <a href="/pdf/ReScuE-User-Guide.pdf">ReScuE User Guide</a>
-    </div>
-    <div style="flex: 0 0 auto; margin-left: 20px;">
-        <img src="/img/cloud-emulator.png" alt="ReScuE Cloud" style="max-width: 200px;">
-    </div>
-</div>
+
+[ReScuE User Guide](/pdf/ReScuE-User-Guide.pdf)
 
 
 ### VMs and Containers
