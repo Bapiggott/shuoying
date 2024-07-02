@@ -15,7 +15,10 @@ ReScuE is a cloud-based networked virtual environment dedicated to cybersecurity
 ### Hands-on Labs
 We have developed cybersecurity hands-on labs in the area of pervasive computing. They cover a wide range of cloud-based cryptography, SDN and NFV, mobile security, and forensic technologies. More labs are under finalization.
 
-![Hands-on Labs](../imgs/hol-logo.png)
+1. [Fine-grained Access Control with Attribute-based Encryption (ABE) Lab](Labs/Lab_Attribute_based_Encryption.md)
+2. [Developing Mobile Malware (DMM) Lab](Labs/Lab_Developing_Mobile_Malware.md)
+3. [Privacy Preservation with Homomorphic Encryption (HE) Lab](Labs/Lab_HE.md)
+4. [Behavior-based Mobile Malware Analysis and Detection (MA) Lab](Labs/Lab_HE.md)
 
 [Learn more](../imgs/learnmore.png)
 
