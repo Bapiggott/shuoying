@@ -24,21 +24,21 @@ We have developed cybersecurity hands-on labs in the area of pervasive computing
 ### ReScuE Cloud Environments
 Built upon [CloudLab](https://www.cloudlab.us/), ReScuE provides a user-friendly interface and critical components allowing educators to set up and maintain the virtual environment. Meanwhile, ReScuE provides the web interface to monitor students' activities and resource usage for virtual artifacts.
 
-![ReScuE Cloud](../imgs/cloud-emulator.png)
+![ReScuE Cloud](../img/cloud-emulator.png)
 
 [ReScuE User Guide](../pdf/ReScuE-User-Guide.pdf)
 
 ### VMs and Containers
 ReScuE labs rely on our customized virtual machines (VMs) and containers. As educators and students, you can download them from the repository. They are free. For more information on how to build them from scratch, please get in touch with us.
 
-![VMs and Containers](../imgs/vm-container.png)
+![VMs and Containers](../img/vm-container.png)
 
 [Setup Environment for Android Malware Construction](../Documents/Setup Environment for Android Malware Construction.pdf)
 
 ### YouTube Channel
 We developed YouTube channels for educators and students to get familiar with the ReScuE platform. In addition, for each hands-on lab, we provide videos, which articulate learning objectives and provide demonstration.
 
-![YouTube Channel](../imgs/youtube.png)
+![YouTube Channel](../img/youtube.png)
 
 [YouTube Channel](https://www.youtube.com/channel/UC0Z5YeChCNubOgv0GJVO7fg)
 
